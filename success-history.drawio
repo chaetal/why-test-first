@@ -119,7 +119,7 @@
         <mxCell id="-9UY9D0LqpRNY4nDB8JV-60" value="Совместное целеполаган&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;ие&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="310" y="60" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Q5NMpytd__eOCNeQYm9k-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=11;" edge="1" parent="1" source="-9UY9D0LqpRNY4nDB8JV-10" target="-9UY9D0LqpRNY4nDB8JV-10">
+        <mxCell id="Q5NMpytd__eOCNeQYm9k-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=11;" parent="1" source="-9UY9D0LqpRNY4nDB8JV-10" target="-9UY9D0LqpRNY4nDB8JV-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
