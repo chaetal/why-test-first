@@ -28,10 +28,10 @@
         <mxCell id="KEL01w27pOFALbZEhco1-2" value="-" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=21;" parent="1" vertex="1">
           <mxGeometry x="320" y="420" width="10" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="sos0-Lsc9Ani7fnW0iEP-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star;fillStyle=solid;fillColor=#FFFFFF;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="sos0-Lsc9Ani7fnW0iEP-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star;fillStyle=solid;fillColor=#FFFFFF;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="355" y="410" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="sos0-Lsc9Ani7fnW0iEP-2" value="" style="endArrow=classicThin;html=1;rounded=0;curved=1;endFill=1;" edge="1" parent="1">
+        <mxCell id="sos0-Lsc9Ani7fnW0iEP-2" value="" style="endArrow=classicThin;html=1;rounded=0;curved=1;endFill=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="350" y="415" as="sourcePoint" />
             <mxPoint x="310" y="415" as="targetPoint" />
@@ -40,7 +40,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sos0-Lsc9Ani7fnW0iEP-3" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.markup.curlyBrace;whiteSpace=wrap;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="sos0-Lsc9Ani7fnW0iEP-3" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.markup.curlyBrace;whiteSpace=wrap;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="285" y="395" width="110" height="10" as="geometry" />
         </mxCell>
       </root>
